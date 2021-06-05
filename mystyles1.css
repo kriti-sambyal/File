@@ -1,0 +1,67 @@
+*{
+font-family:sans-serif;
+}
+
+*{
+background-color: #fed8b1;
+}
+
+p.center{
+color:mediumseagreen;
+text-align:left;
+font-size:17px;
+}
+
+
+h3{
+color:blue;
+text-align : center;}
+
+h2.center{
+color:orange;
+font-size:19px;
+text-align:center;
+}
+
+#abc  {
+text-align: left;
+color: dodgerblue;
+}
+
+table th, td, {
+border:2px black;
+
+}
+
+li{
+text-align:center;
+size:15px;
+color:maroon;
+backgrouns-color:lenin;
+}
+
+h1{
+text-align: left;
+color: red;
+}
+
+h2{
+text-align:center;
+color:green;
+font-size:22px;
+}
+h3{
+text-align: center;
+color: purple;
+}
+
+h4{
+text-align: left;
+color: magenta;
+}
+
+p{
+text-align:left;
+color: green;
+font-size:18px;
+}
